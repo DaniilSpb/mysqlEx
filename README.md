@@ -1,0 +1,2 @@
+# mysqlEx
+sql problems 
